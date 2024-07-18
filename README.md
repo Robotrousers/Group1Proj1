@@ -1,6 +1,6 @@
-# Group1Proj1 - Mo Money$ Movie$
+## Group 1 Project 1 - Mo Money$ Movie$
 
-## How to Make The Most Money$ with One Movie
+### How to Make The Most Money$ with One Movie
 
 ### Introduction
 
