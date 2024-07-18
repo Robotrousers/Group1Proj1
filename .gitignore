@@ -1,5 +1,6 @@
 # Adding config.py file.
 omdb_key.py
+tmdb_key.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
