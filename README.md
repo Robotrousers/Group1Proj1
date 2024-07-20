@@ -32,13 +32,13 @@ In addition to years, our movies will also be limited to the top 50 movies of ea
     - Do certain genres perform better with lower budgets?
     - What are the average budget and profit for top genres.
 
-### API's
+### Resources and API's
 - *OMDB* - basic info - ratings, title, boxoffice
 - *TMDB* - more extensive data and financials
-- POSSIBLE - Box Office Mojo - (Need imdbpro??) detailed revenue data
+- TMDB revenue dataset on Kaggle - https://www.kaggle.com/code/danofer/movies-data-clean/input?select=movies_metadata.csv
 
 #### Major Roles:
-  - *Chris: Proj prep and API* - Project and repo init. Choose and ensure proper API keys configuration and data fetching.
+  - *Chris: Proj prep and API* - Project and repo init. Choose datasets and ensure proper API keys configuration and data fetching. Data cleaning and merging.
   
 - *Jack: Budget/Profititability* - Explore and answer financial related questions with the use of exploration and charts. (Account for inflation per year? Too annoying?)
   
