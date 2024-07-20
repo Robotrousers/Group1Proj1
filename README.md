@@ -45,3 +45,12 @@ In addition to years, our movies will also be limited to the top 50 movies of ea
 - *Sarah: Ratings* - Aggregate (and standardize?) ratings from decided sources. Explore and answer questions related to ratings and profitability. Options from OMDB are: IMDB Value, IMDB Rating, Metacritic, Rotten Tomatoes. Maybe use only the source with highest number of ratings?
   
 - *Chuck: Genre* - Use consistent genre categories to ensure comparability across different data. Explore genre data and compare to ratings and profitablity to answer questions.
+
+
+
+### This repo contains the following files:
+    - mo_movies.ipynb - The Jupyter Notebook containing code for api data parsing, merging, cleaning, and file exports
+    - mo_movies_df.parquet - file export that contains the data frame for the EDA work
+    - mo_movies_df.csv - alternate file export that contains the data frame for the EDA work in CSV format
+    - movies_metadata.csv - financial dataset from Kaggle
+    - omdb_data.csv - movie info data created by api data parsing
