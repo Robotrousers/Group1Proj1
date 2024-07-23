@@ -14,10 +14,9 @@ We will be analyzing movies between the years of 2005-2015. This decade was chos
     - Total movie profit
     - Movie genre
     - Total ratings
-    - Critic vs general audience ratings
 
 ### Movie Selection Criteria
-In addition to years, our movies will also be limited to the top 50 movies of each year. The “top” movies will be determined using number of ratings in order to avoid including movies which have only two 100% votes. By utilizing this method of number of votes, we believe we will be pulling the most watched and therefore most paid-for movies. 
+In addition to years, the “top” movies will be determined using number of ratings in order to avoid including movies which have only two 100% votes. By utilizing this method of number of votes, we believe we will be pulling the most watched and therefore most paid-for movies. 
 
 ### Potential Questions:
     - What is the correlation between the movie budget and its profit?
@@ -38,7 +37,7 @@ In addition to years, our movies will also be limited to the top 50 movies of ea
 - TMDB revenue dataset on Kaggle - https://www.kaggle.com/code/danofer/movies-data-clean/input?select=movies_metadata.csv
 
 #### Major Roles:
-  - *Chris: Proj prep and API* - Project and repo init. Choose datasets and ensure proper API keys configuration and data fetching. Data cleaning and merging.
+  - *Chris: Proj prep and API* - Project and repo init. Choose datasets and ensure proper API keys configuration and data fetching. Data cleaning and prepping.
   
 - *Jack: Budget/Profititability* - Explore and answer financial related questions with the use of exploration and charts. (Account for inflation per year? Too annoying?)
   
@@ -49,8 +48,9 @@ In addition to years, our movies will also be limited to the top 50 movies of ea
 
 
 ### This repo contains the following files:
-    - mo_movies.ipynb - The Jupyter Notebook containing code for api data parsing, merging, cleaning, and file exports
-    - mo_movies_df.parquet - file export that contains the data frame for the EDA work
-    - mo_movies_df.csv - alternate file export that contains the data frame for the EDA work in CSV format
+    - mo_movies.ipynb - The Jupyter Notebook containing code for api data parsing, merging, filtering and file exports
+    - clean_dataset.ipynb - The Jupyter Notebook containing code for dealing with the kaggle dataset: cleaning, filtering and file exports
+    - mo_movies_data.parquet - file export that contains the data frame for the EDA work
+    - mo_movies_data.csv - alternate file export that contains the data frame for the EDA work in CSV format
     - movies_metadata.csv - financial dataset from Kaggle
-    - omdb_data.csv - movie info data created by api data parsing
+    - filtered_movies_data.csv - prep file. created from cleaning and filtering the kaggle dataset
