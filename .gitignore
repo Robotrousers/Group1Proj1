@@ -3,6 +3,9 @@ config.py
 omdb_key.py
 tmdb_key.py
 
+#jupyter notebbook checkpoints
+.ipynb_checkpoints
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
