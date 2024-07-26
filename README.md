@@ -33,8 +33,7 @@ In addition to years, the “top” movies will be determined using number of ra
 
 ### Resources and API's
 - *OMDB* - basic info - ratings, title, boxoffice
-- *TMDB* - more extensive data and financials
-- TMDB revenue dataset on Kaggle - [https://www.kaggle.com/code/danofer/movies-data-clean/input?select=movies_metadata.csv](https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset?select=movies_metadata.csv)
+- The Movies Dataset - [https://www.kaggle.com/code/danofer/movies-data-clean/input?select=movies_metadata.csv](https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset?select=movies_metadata.csv)
 
 #### Major Roles:
   - *Chris: Proj prep and API* - Project and repo init. Choose datasets and ensure proper API keys configuration and data fetching. Data cleaning and prepping.
