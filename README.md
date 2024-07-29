@@ -49,7 +49,7 @@ We will be analyzing movies between the years of 2005-2015. This decade was chos
     - mo_genres - The Jupyter Notebook containing code and analysis for exploration by genre
     - movies_ratings.ipynb - The Jupyter Notebook containing code and analysis for exploration by ratings
     - jack_budgets.ipynb - The Jupyter Notebook containing code and analysis for exploration by finances
-    - MoMoviesPrez.pptx - Powerpoint presentation of EDA
+    - MoMoviesClassPresentation.pptx - Powerpoint presentation of EDA
     - How to earn the highest profit from a single movie.docx - Word doc with presentation overview and explanation
     
     Resources\
