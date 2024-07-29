@@ -30,7 +30,7 @@ We will be analyzing movies between the years of 2005-2015. This decade was chos
 - *Kaggle* - The Movies Dataset - [https://www.kaggle.com/code/danofer/movies-data-clean/input?select=movies_metadata.csv](https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset?select=movies_metadata.csv)
 
 #### Major Roles:
-  - *Chris: Proj prep and API* - Project and repo init. Choose datasets and ensure proper API keys configuration and data fetching. Data cleaning and prepping.
+- *Chris: Proj prep and API* - Project and repo init. Choose datasets and ensure proper API keys configuration and data fetching. Data cleaning and prepping.
   
 - *Jack: Budget/Profititability* - Explore and answer financial related questions with the use of exploration and charts, then compare by genres. 
   
@@ -41,14 +41,18 @@ We will be analyzing movies between the years of 2005-2015. This decade was chos
 
 
 ### This repo contains the following files:
-    - mo_movies.ipynb - The Jupyter Notebook containing code for api data parsing, merging, filtering and file exports
-    - clean_dataset.ipynb - The Jupyter Notebook containing code for dealing with the kaggle dataset: cleaning, filtering and file exports
+    Root\
+    - clean_dataset.ipynb - The Jupyter Notebook containing code for dealing with the kaggle dataset: cleaning, filtering and file export
+    - mo_movies.ipynb - The Jupyter Notebook containing code for api, data parsing and merging, filtering and file exports
     - mo_genres - The Jupyter Notebook containing code and analysis for exploration by genre
     - movies_ratings.ipynb - The Jupyter Notebook containing code and analysis for exploration by ratings
     - jack_budgets.ipynb - The Jupyter Notebook containing code and analysis for exploration by finances
     - MoMoviesPrez.pptx - Powerpoint presentation of EDA
     - How to earn the highest profit from a single movie.docx - Word doc with presentation overview and explanation
-    - mo_movies_data.parquet - file export that contains the data frame for the EDA work
-    - mo_movies_data.csv - alternate file export that contains the data frame for the EDA work in CSV format
+    
+    Resources\
     - movies_metadata.csv - financial dataset from Kaggle
     - filtered_movies_data.csv - prep file. created from cleaning and filtering the kaggle dataset
+    - mo_movies_data.parquet - file export that contains the data frame for the EDA work
+    - mo_movies_data.csv - alternate file export that contains the data frame for the EDA work in CSV format
+
