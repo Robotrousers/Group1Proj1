@@ -28,6 +28,8 @@ We will be analyzing movies between the years of 2005-2015. This decade was chos
 ### Resources and API's
 - *OMDB* - basic info - ratings, title, boxoffice
 - *Kaggle* - The Movies Dataset - [https://www.kaggle.com/code/danofer/movies-data-clean/input?select=movies_metadata.csv](https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset?select=movies_metadata.csv)
+- str.contains - found on StackOverflow - https://stackoverflow.com/questions/37011734/pandas-dataframe-str-contains-and-operation
+- Set code for genres data shared by Othmane (Thank you!)
 
 #### Major Roles:
 - *Chris: Proj prep and API* - Project and repo init. Choose datasets and ensure proper API keys configuration and data fetching. Data cleaning and prepping.
