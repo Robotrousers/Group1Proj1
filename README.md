@@ -27,16 +27,16 @@ We will be analyzing movies between the years of 2005-2015. This decade was chos
 
 ### Resources, Cites and API
 - *OMDB* - ratings, titles etc- https://www.omdbapi.com/
-- *Kaggle* - The Movies Dataset - contains financial info not present on OMDB - [https://www.kaggle.com/code/danofer/movies-data-clean/input?select=movies_metadata.csv](https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset?select=movies_metadata.csv)
+- *Kaggle* - The Movies Dataset from user, Rounak Banik - contains financial info not present on OMDB - [https://www.kaggle.com/code/danofer/movies-data-clean/input?select=movies_metadata.csv](https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset?select=movies_metadata.csv)
 - str.contains - found on StackOverflow - https://stackoverflow.com/questions/37011734/pandas-dataframe-str-contains-and-operation
 - Set code for genres data shared by Othmane (Thank you!)
 
 #### Major Roles:
-- *Chris: Proj prep and API* - Project and repo init. Choose datasets and ensure proper API keys configuration and data fetching. Data cleaning and prepping.
+- *Chris: Proj prep and API* - Project and repo init. Choose datasets and ensure proper API keys configuration and data fetching. Data cleaning and prepping. PPT slideshow
   
 - *Jack: Budget/Profititability* - Explore and answer financial related questions with the use of exploration and charts, then compare by genres. 
   
-- *Sarah: Ratings* - Aggregate ratings from sources. Explore and answer questions related to ratings, profitability and genre.
+- *Sarah: Ratings* - Aggregate ratings from sources. Explore and answer questions related to ratings, profitability and genre. Presentation Doc creation.
   
 - *Chuck: Genre* - Use consistent genre categories to ensure comparability across different data. Explore genre data and compare to ratings and profitablity to answer questions.
 
