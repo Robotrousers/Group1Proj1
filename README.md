@@ -27,7 +27,7 @@ We will be analyzing movies between the years of 2005-2015. This decade was chos
 
 ### Resources, Cites and API
 - *OMDB* - ratings, titles etc- https://www.omdbapi.com/
-- *Kaggle* - The Movies Dataset - contains financial info not present on OMDB - [https://www.kaggle.com/code/danofer/movies-data-clean/input?select=movies_metadata.csv](https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset?select=movies_metadata.csv)
+- *Kaggle* - The Movies Dataset from user, Rounak Banik - contains financial info not present on OMDB - [https://www.kaggle.com/code/danofer/movies-data-clean/input?select=movies_metadata.csv](https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset?select=movies_metadata.csv)
 - str.contains - found on StackOverflow - https://stackoverflow.com/questions/37011734/pandas-dataframe-str-contains-and-operation
 - Set code for genres data shared by Othmane (Thank you!)
 
